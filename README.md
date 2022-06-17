@@ -1,2 +1,0 @@
-# RGS-EINSTANT
- EINSTANT Games
