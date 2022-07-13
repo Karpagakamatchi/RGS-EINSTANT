@@ -15,7 +15,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class autoScript1 {
+public class autoScript1{
 	public static WebDriver driver;
 	  @BeforeTest
 public void BeforeTest() throws InterruptedException, FindFailed, AWTException {
